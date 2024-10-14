@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>kutuphane_otomasyonu</RootNamespace>
+    <AssemblyName>kutuphane_otomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CalisanGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalisanGiris.Designer.cs">
+      <DependentUpon>CalisanGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaMenu.Designer.cs">
+      <DependentUpon>AnaMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Connected Services\kimlik\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\ServiceReference1\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="KullaniciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullaniciGiris.Designer.cs">
+      <DependentUpon>KullaniciGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullaniciMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullaniciMenu.Designer.cs">
+      <DependentUpon>KullaniciMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalisanMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalisanMenu.Designer.cs">
+      <DependentUpon>CalisanMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanici_Kayitolma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanici_Kayitolma.Designer.cs">
+      <DependentUpon>Kullanici_Kayitolma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanici_KitapListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanici_KitapListele.Designer.cs">
+      <DependentUpon>Kullanici_KitapListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanici_Profilm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanici_Profilm.Designer.cs">
+      <DependentUpon>Kullanici_Profilm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullanıcıSifreDegistirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullanıcıSifreDegistirme.Designer.cs">
+      <DependentUpon>KullanıcıSifreDegistirme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiMenu.Designer.cs">
+      <DependentUpon>YoneticiMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calisan_EkleListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calisan_EkleListele.Designer.cs">
+      <DependentUpon>Calisan_EkleListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiGiris.Designer.cs">
+      <DependentUpon>YoneticiGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kitap_EkleListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kitap_EkleListele.Designer.cs">
+      <DependentUpon>Kitap_EkleListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanici_EkleListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanici_EkleListele.Designer.cs">
+      <DependentUpon>Kullanici_EkleListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emanet_EkleListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emanet_EkleListele.Designer.cs">
+      <DependentUpon>Emanet_EkleListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hakkinda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hakkinda.Designer.cs">
+      <DependentUpon>Hakkinda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CalisanGiris.resx">
+      <DependentUpon>CalisanGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnaMenu.resx">
+      <DependentUpon>AnaMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciGiris.resx">
+      <DependentUpon>KullaniciGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciMenu.resx">
+      <DependentUpon>KullaniciMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalisanMenu.resx">
+      <DependentUpon>CalisanMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanici_Kayitolma.resx">
+      <DependentUpon>Kullanici_Kayitolma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanici_KitapListele.resx">
+      <DependentUpon>Kullanici_KitapListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanici_Profilm.resx">
+      <DependentUpon>Kullanici_Profilm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullanıcıSifreDegistirme.resx">
+      <DependentUpon>KullanıcıSifreDegistirme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiMenu.resx">
+      <DependentUpon>YoneticiMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calisan_EkleListele.resx">
+      <DependentUpon>Calisan_EkleListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiGiris.resx">
+      <DependentUpon>YoneticiGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kitap_EkleListele.resx">
+      <DependentUpon>Kitap_EkleListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanici_EkleListele.resx">
+      <DependentUpon>Kullanici_EkleListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emanet_EkleListele.resx">
+      <DependentUpon>Emanet_EkleListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hakkinda.resx">
+      <DependentUpon>Hakkinda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Connected Services\kimlik\KPSPublic.wsdl" />
+    <None Include="Connected Services\kimlik\kutuphane_otomasyonu.kimlik.TCKimlikNoDogrulaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference1\KPSPublic.wsdl" />
+    <None Include="Connected Services\ServiceReference1\kutuphane_otomasyonu.ServiceReference1.TCKimlikNoDogrulaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\kimlik\" />
+    <WCFMetadataStorage Include="Connected Services\ServiceReference1\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference1\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference1\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference1\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\kimlik\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\kimlik\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\kimlik\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

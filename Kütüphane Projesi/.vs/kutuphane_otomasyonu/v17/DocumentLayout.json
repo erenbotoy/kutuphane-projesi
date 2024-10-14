@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\kullanici_eklelistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\kullanici_eklelistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\yoneticimenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\yoneticimenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|c:\\users\\eren b\u00F6t\u00F6y\\onedrive\\masa\u00FCst\u00FC\\e.b\\e\u011Fitim\\\u00FCn\u0130\\23-24\\3. d\u00F6nem\\g\u00F6rsel programlama ii\\proje ve sql f\u0130nal \u002B\u002B\u002B\\proje ve sql\\k\u00FCt\u00FCphane projesi\\kutuphane_otomasyonu\\yoneticigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\yoneticigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\kullanici_kayitolma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\kullanici_kayitolma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\kullan\u0131c\u0131sifredegistirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\kullan\u0131c\u0131sifredegistirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\calisan_eklelistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\calisan_eklelistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\calisan_eklelistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\calisan_eklelistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\kitap_eklelistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DFC9831-11B5-4353-AD5C-6CF99E34CAF9}|kutuphane_otomasyonu\\kutuphane_otomasyonu.csproj|solutionrelative:kutuphane_otomasyonu\\kitap_eklelistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kullanici_Kayitolma.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Kullanici_Kayitolma.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Kullanici_Kayitolma.cs",
+              "ToolTip": "C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Kullanici_Kayitolma.cs [Design]",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Kullanici_Kayitolma.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:49:52.962Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YoneticiGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\YoneticiGiris.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\YoneticiGiris.cs",
+              "ToolTip": "C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\YoneticiGiris.cs [Design]",
+              "RelativeToolTip": "kutuphane_otomasyonu\\YoneticiGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:49:53.007Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YoneticiMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\YoneticiMenu.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\YoneticiMenu.cs",
+              "ToolTip": "C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\YoneticiMenu.cs [Design]",
+              "RelativeToolTip": "kutuphane_otomasyonu\\YoneticiMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:49:53.007Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kullanici_EkleListele.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Kullanici_EkleListele.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Kullanici_EkleListele.cs",
+              "ToolTip": "C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Kullanici_EkleListele.cs [Design]",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Kullanici_EkleListele.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:49:53.008Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kullan\u0131c\u0131SifreDegistirme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Kullan\u0131c\u0131SifreDegistirme.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Kullan\u0131c\u0131SifreDegistirme.cs",
+              "ToolTip": "C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Kullan\u0131c\u0131SifreDegistirme.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Kullan\u0131c\u0131SifreDegistirme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T10:49:53.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calisan_EkleListele.cs",
+              "DocumentMoniker": "C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Calisan_EkleListele.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Calisan_EkleListele.cs",
+              "ToolTip": "C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Calisan_EkleListele.cs",
+              "RelativeToolTip": "kutuphane_otomasyonu\\Calisan_EkleListele.cs",
+              "ViewState": "AQIAABoBAAAAAAAAAAAWwDgBAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T10:49:53.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calisan_EkleListele.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Calisan_EkleListele.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Calisan_EkleListele.cs",
+              "ToolTip": "C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Calisan_EkleListele.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Calisan_EkleListele.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T10:49:53.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kitap_EkleListele.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eren B\u00F6t\u00F6y\\OneDrive\\Masa\u00FCst\u00FC\\E.B\\E\u011Fitim\\\u00DCN\u0130\\23-24\\3. D\u00D6NEM\\G\u00F6rsel Programlama II\\Proje ve SQL F\u0130NAL \u002B\u002B\u002B\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Kitap_EkleListele.cs",
+              "RelativeDocumentMoniker": "kutuphane_otomasyonu\\Kitap_EkleListele.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Kitap_EkleListele.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve SQL\\K\u00FCt\u00FCphane Projesi\\kutuphane_otomasyonu\\Kitap_EkleListele.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T10:49:53.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
